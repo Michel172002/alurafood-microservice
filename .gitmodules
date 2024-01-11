@@ -1,0 +1,4 @@
+[submodule "alurafood-server"]
+	path = alurafood-server
+	url = git@github.com:Michel172002/alurafood-server.git
+	branch = master
