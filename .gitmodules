@@ -10,3 +10,7 @@
 	path = alurafood-pagamentos
 	url = git@github.com:Michel172002/alurafood-Pagamentos.git
 	branch = master
+[submodule "alurafood-gateway"]
+	path = alurafood-gateway
+	url = git@github.com:Michel172002/alurafood-gateway.git
+	branch = master
